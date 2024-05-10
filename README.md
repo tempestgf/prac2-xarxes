@@ -64,3 +64,6 @@ Aquest client utilitza classes proporcionades per Java per gestionar la connexi�
 ## Instruccions d'Ús
 
 Per utilitzar el client, compileu el codi i executeu l'aplicació. El client es connectarà al servidor i us permetrà interactuar amb la "base de dades" de llibres.
+
+
+@autor Guillem Farriols Segura
